@@ -5,3 +5,5 @@ I make a clone of Amazon.in which is almost similar to the original.
 It is responsive for Mobile Phones.
 <br>
 Used Coding Language : HTML and CSS.
+<br1>
+![alt text](https://github.com/Ninja-Vikash/Amazon-Clone/blob/main/mainImages/amazonclone.png)
